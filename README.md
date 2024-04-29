@@ -1,16 +1,16 @@
 # Business Analyst
 
-### Education
+## Education
 
-## Hult International Business School | San Francisco, California
+### Hult International Business School | San Francisco, California
 • Masters in Business Analytics
 
-## Central American Technological University | Tegucigalpa, Honduras
+### Central American Technological University | Tegucigalpa, Honduras
 • Bachelor in Finance
 
-### Working Experience
+## Working Experience
 
-## Rural Bank of Development of Honduras – Tegucigalpa, Honduras – Compliance Analyst 08/2021 – 05/2023
+### Rural Bank of Development of Honduras – Tegucigalpa, Honduras – Compliance Analyst 08/2021 – 05/2023
 Implemented robust measures to prevent, combat, and identify money laundering and terrorism financing risks,
 safeguarding the bank's integrity and financial security.
 
@@ -34,7 +34,7 @@ reinforcing the bank's commitment to regulatory compliance and accountability.
 
 Leadership and involvement: Treasurer of the department.
 
-## Central Bank of Honduras – Tegucigalpa, Honduras – Accounting Analyst 01/2020 – 03/2020
+### Central Bank of Honduras – Tegucigalpa, Honduras – Accounting Analyst 01/2020 – 03/2020
 • Streamlined the provision and collection of bonds and bills, ensuring accuracy and timeliness in financial
 transactions, which led to improved liquidity management and reduced financial risk.
 
